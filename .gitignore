@@ -1,0 +1,7 @@
+.project
+.settings*
+*.swp
+*.pyc
+dist
+ant/lib/ant-salesforce.jar
+/Solenopsis/nbproject/private/
